@@ -514,7 +514,7 @@
 
                 </div>
                 <div class="col-lg-12 mt-5 text-center">
-                 <a href="#" class="btn btn-sm btn-outline-dark rounded-0 fw-bold shadow-none">More Houseboats >>></a>
+                 <a href="#" class="btn btn-sm btn-outline-dark rounded-0 fw-bold shadow-none">>>>More Houseboats >>></a>
                 </div>
             </div>
         </div>
