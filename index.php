@@ -22,32 +22,9 @@
             rel="stylesheet"
             href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css"
         />
+        <link rel="stylesheet" href="css/common.css">
         <style>
-            * {
-                font-family: "Poppins", sans-serif;
-                font-family: "Raleway", sans-serif;
-            }
-            .h-font {
-                font-family: "Libre Baskerville", serif;
-                font-family: "Merienda", cursive;
-                
-            }
-
-            input::-webkit-outer-spin-button,
-            input::-webkit-inner-spin-button {
-                -webkit-appearance: none;
-                margin: 0;
-            }
-
-            input[type="number"] {
-                -moz-appearance: textfield;
-            }
-            .custom-bg{
-                background-color: #2ec1ac;
-            }
-            .custom-bg:hover{
-                background-color: #279e8c;
-            }
+           
             .availability-form{
                 margin-top: -50px;
                 z-index: 2;
@@ -445,9 +422,10 @@
         <h2 class="mt-5 pt-4 mb-4 text-center fw-bold h-font">Our Houseboats</h2>
 
         <div class="container">
-            <div class="row">
+            <div class="row"> 
+                <!-- cards -->
                 <div class="col-lg-4 col-md-6 my-3">
-                    <!-- cards -->
+                    <!-- card 1 -->
 
                     <div class="card border-0 shadow" style="max-width: 350px; margin: auto;">
                         <img src="images/placeholder.png" class="card-img-top" >
@@ -512,12 +490,368 @@
                         </div>
                     </div>
 
+                    
+
                 </div>
+
+                <div class="col-lg-4 col-md-6 my-3">
+                    <!-- card 2 -->
+
+                    <div class="card border-0 shadow" style="max-width: 350px; margin: auto;">
+                        <img src="images/placeholder.png" class="card-img-top" >
+                        <div class="card-body">
+                            <h5 class="card-title fw-bold">Premium Single Bedroom</h5>
+                            <h6 class="mb-4 fw-bold">Starting from ₹ 8999</h6>
+                            <div class="features mb-4">
+                                <h6 class="mb-1 fw-bold">Features</h6>
+                                <span class="badge rounded-pill bg-success mb-3 text-wrap lh-base ">
+                                    Homey Atmosphere
+                                </span>
+
+                                <span class="badge rounded-pill bg-success mb-3 text-wrap lh-base ">
+                                    Sun Deck
+                                </span>
+
+                                <span class="badge rounded-pill bg-success mb-3 text-wrap lh-base ">
+                                    Premium Cozy Interior
+                                </span>
+
+                                <span class="badge rounded-pill bg-success mb-3 text-wrap lh-base ">
+                                    Nautical Charm
+                                </span>
+                            </div>
+
+                            <div class="facilities mb-4">
+                                <h6 class="mb-1 fw-bold">Facilities</h6>
+                                <span class="badge rounded-pill bg-info mb-3 text-wrap lh-base ">
+                                Private Bedroom
+                                </span>
+
+                                <span class="badge rounded-pill bg-info mb-3 text-wrap lh-base ">
+                                Bathroom
+                                </span>
+
+                                <span class="badge rounded-pill bg-info mb-3 text-wrap lh-base ">
+                                Onboard Chef
+                                </span>
+
+                                <span class="badge rounded-pill bg-info mb-3 text-wrap lh-base ">
+                                Glass-covered-Living Area
+                                </span>
+                            </div>
+
+                            <div class="facilities mb-4">
+                            <h6 class="mb-1 fw-bold">Rating</h6> 
+                            <span class="badge rounded-pill bg-light">
+                                <i class="bi bi-star-fill text-warning"></i>
+                                <i class="bi bi-star-fill text-warning"></i>
+                                <i class="bi bi-star-fill text-warning"></i>
+                                <i class="bi bi-star-fill text-warning"></i>
+                            </span>
+                            
+                            </div>
+
+                            <div class="d-flex justify-content-evenly mb-2">
+                                <a href="#" class="btn btn-sm text-dark custom-bg shadow-none fw-bold">Book Now</a>
+                                <a href="#" class="btn btn-sm btn-outline-dark shadow-none fw-bold">More Details</a>
+                            </div>
+
+                            
+                        </div>
+                    </div>
+
+                    
+
+                </div>
+
+                <div class="col-lg-4 col-md-6 my-3">
+                    <!-- card 3 -->
+
+                    <div class="card border-0 shadow" style="max-width: 350px; margin: auto;">
+                        <img src="images/placeholder.png" class="card-img-top" >
+                        <div class="card-body">
+                            <h5 class="card-title fw-bold">Premium Single Bedroom</h5>
+                            <h6 class="mb-4 fw-bold">Starting from ₹ 8999</h6>
+                            <div class="features mb-4">
+                                <h6 class="mb-1 fw-bold">Features</h6>
+                                <span class="badge rounded-pill bg-success mb-3 text-wrap lh-base ">
+                                    Homey Atmosphere
+                                </span>
+
+                                <span class="badge rounded-pill bg-success mb-3 text-wrap lh-base ">
+                                    Sun Deck
+                                </span>
+
+                                <span class="badge rounded-pill bg-success mb-3 text-wrap lh-base ">
+                                    Premium Cozy Interior
+                                </span>
+
+                                <span class="badge rounded-pill bg-success mb-3 text-wrap lh-base ">
+                                    Nautical Charm
+                                </span>
+                            </div>
+
+                            <div class="facilities mb-4">
+                                <h6 class="mb-1 fw-bold">Facilities</h6>
+                                <span class="badge rounded-pill bg-info mb-3 text-wrap lh-base ">
+                                Private Bedroom
+                                </span>
+
+                                <span class="badge rounded-pill bg-info mb-3 text-wrap lh-base ">
+                                Bathroom
+                                </span>
+
+                                <span class="badge rounded-pill bg-info mb-3 text-wrap lh-base ">
+                                Onboard Chef
+                                </span>
+
+                                <span class="badge rounded-pill bg-info mb-3 text-wrap lh-base ">
+                                Glass-covered-Living Area
+                                </span>
+                            </div>
+
+                            <div class="facilities mb-4">
+                            <h6 class="mb-1 fw-bold">Rating</h6> 
+                            <span class="badge rounded-pill bg-light">
+                                <i class="bi bi-star-fill text-warning"></i>
+                                <i class="bi bi-star-fill text-warning"></i>
+                                <i class="bi bi-star-fill text-warning"></i>
+                                <i class="bi bi-star-fill text-warning"></i>
+                            </span>
+                            
+                            </div>
+
+                            <div class="d-flex justify-content-evenly mb-2">
+                                <a href="#" class="btn btn-sm text-dark custom-bg shadow-none fw-bold">Book Now</a>
+                                <a href="#" class="btn btn-sm btn-outline-dark shadow-none fw-bold">More Details</a>
+                            </div>
+
+                            
+                        </div>
+                    </div>
+
+                    
+
+                </div>
+
+                <div class="col-lg-4 col-md-6 my-3">
+                    <!-- card 4 -->
+
+                    <div class="card border-0 shadow" style="max-width: 350px; margin: auto;">
+                        <img src="images/placeholder.png" class="card-img-top" >
+                        <div class="card-body">
+                            <h5 class="card-title fw-bold">Premium Single Bedroom</h5>
+                            <h6 class="mb-4 fw-bold">Starting from ₹ 8999</h6>
+                            <div class="features mb-4">
+                                <h6 class="mb-1 fw-bold">Features</h6>
+                                <span class="badge rounded-pill bg-success mb-3 text-wrap lh-base ">
+                                    Homey Atmosphere
+                                </span>
+
+                                <span class="badge rounded-pill bg-success mb-3 text-wrap lh-base ">
+                                    Sun Deck
+                                </span>
+
+                                <span class="badge rounded-pill bg-success mb-3 text-wrap lh-base ">
+                                    Premium Cozy Interior
+                                </span>
+
+                                <span class="badge rounded-pill bg-success mb-3 text-wrap lh-base ">
+                                    Nautical Charm
+                                </span>
+                            </div>
+
+                            <div class="facilities mb-4">
+                                <h6 class="mb-1 fw-bold">Facilities</h6>
+                                <span class="badge rounded-pill bg-info mb-3 text-wrap lh-base ">
+                                Private Bedroom
+                                </span>
+
+                                <span class="badge rounded-pill bg-info mb-3 text-wrap lh-base ">
+                                Bathroom
+                                </span>
+
+                                <span class="badge rounded-pill bg-info mb-3 text-wrap lh-base ">
+                                Onboard Chef
+                                </span>
+
+                                <span class="badge rounded-pill bg-info mb-3 text-wrap lh-base ">
+                                Glass-covered-Living Area
+                                </span>
+                            </div>
+
+                            <div class="facilities mb-4">
+                            <h6 class="mb-1 fw-bold">Rating</h6> 
+                            <span class="badge rounded-pill bg-light">
+                                <i class="bi bi-star-fill text-warning"></i>
+                                <i class="bi bi-star-fill text-warning"></i>
+                                <i class="bi bi-star-fill text-warning"></i>
+                                <i class="bi bi-star-fill text-warning"></i>
+                            </span>
+                            
+                            </div>
+
+                            <div class="d-flex justify-content-evenly mb-2">
+                                <a href="#" class="btn btn-sm text-dark custom-bg shadow-none fw-bold">Book Now</a>
+                                <a href="#" class="btn btn-sm btn-outline-dark shadow-none fw-bold">More Details</a>
+                            </div>
+
+                            
+                        </div>
+                    </div>
+
+                    
+
+                </div>
+
+                <div class="col-lg-4 col-md-6 my-3">
+                    <!-- card 5 -->
+
+                    <div class="card border-0 shadow" style="max-width: 350px; margin: auto;">
+                        <img src="images/placeholder.png" class="card-img-top" >
+                        <div class="card-body">
+                            <h5 class="card-title fw-bold">Premium Single Bedroom</h5>
+                            <h6 class="mb-4 fw-bold">Starting from ₹ 8999</h6>
+                            <div class="features mb-4">
+                                <h6 class="mb-1 fw-bold">Features</h6>
+                                <span class="badge rounded-pill bg-success mb-3 text-wrap lh-base ">
+                                    Homey Atmosphere
+                                </span>
+
+                                <span class="badge rounded-pill bg-success mb-3 text-wrap lh-base ">
+                                    Sun Deck
+                                </span>
+
+                                <span class="badge rounded-pill bg-success mb-3 text-wrap lh-base ">
+                                    Premium Cozy Interior
+                                </span>
+
+                                <span class="badge rounded-pill bg-success mb-3 text-wrap lh-base ">
+                                    Nautical Charm
+                                </span>
+                            </div>
+
+                            <div class="facilities mb-4">
+                                <h6 class="mb-1 fw-bold">Facilities</h6>
+                                <span class="badge rounded-pill bg-info mb-3 text-wrap lh-base ">
+                                Private Bedroom
+                                </span>
+
+                                <span class="badge rounded-pill bg-info mb-3 text-wrap lh-base ">
+                                Bathroom
+                                </span>
+
+                                <span class="badge rounded-pill bg-info mb-3 text-wrap lh-base ">
+                                Onboard Chef
+                                </span>
+
+                                <span class="badge rounded-pill bg-info mb-3 text-wrap lh-base ">
+                                Glass-covered-Living Area
+                                </span>
+                            </div>
+
+                            <div class="facilities mb-4">
+                            <h6 class="mb-1 fw-bold">Rating</h6> 
+                            <span class="badge rounded-pill bg-light">
+                                <i class="bi bi-star-fill text-warning"></i>
+                                <i class="bi bi-star-fill text-warning"></i>
+                                <i class="bi bi-star-fill text-warning"></i>
+                                <i class="bi bi-star-fill text-warning"></i>
+                            </span>
+                            
+                            </div>
+
+                            <div class="d-flex justify-content-evenly mb-2">
+                                <a href="#" class="btn btn-sm text-dark custom-bg shadow-none fw-bold">Book Now</a>
+                                <a href="#" class="btn btn-sm btn-outline-dark shadow-none fw-bold">More Details</a>
+                            </div>
+
+                            
+                        </div>
+                    </div>
+
+                    
+
+                </div>
+
+                <div class="col-lg-4 col-md-6 my-3">
+                    <!-- card 6 -->
+
+                    <div class="card border-0 shadow" style="max-width: 350px; margin: auto;">
+                        <img src="images/placeholder.png" class="card-img-top" >
+                        <div class="card-body">
+                            <h5 class="card-title fw-bold">Premium Single Bedroom</h5>
+                            <h6 class="mb-4 fw-bold">Starting from ₹ 8999</h6>
+                            <div class="features mb-4">
+                                <h6 class="mb-1 fw-bold">Features</h6>
+                                <span class="badge rounded-pill bg-success mb-3 text-wrap lh-base ">
+                                    Homey Atmosphere
+                                </span>
+
+                                <span class="badge rounded-pill bg-success mb-3 text-wrap lh-base ">
+                                    Sun Deck
+                                </span>
+
+                                <span class="badge rounded-pill bg-success mb-3 text-wrap lh-base ">
+                                    Premium Cozy Interior
+                                </span>
+
+                                <span class="badge rounded-pill bg-success mb-3 text-wrap lh-base ">
+                                    Nautical Charm
+                                </span>
+                            </div>
+
+                            <div class="facilities mb-4">
+                                <h6 class="mb-1 fw-bold">Facilities</h6>
+                                <span class="badge rounded-pill bg-info mb-3 text-wrap lh-base ">
+                                Private Bedroom
+                                </span>
+
+                                <span class="badge rounded-pill bg-info mb-3 text-wrap lh-base ">
+                                Bathroom
+                                </span>
+
+                                <span class="badge rounded-pill bg-info mb-3 text-wrap lh-base ">
+                                Onboard Chef
+                                </span>
+
+                                <span class="badge rounded-pill bg-info mb-3 text-wrap lh-base ">
+                                Glass-covered-Living Area
+                                </span>
+                            </div>
+
+                            <div class="facilities mb-4">
+                            <h6 class="mb-1 fw-bold">Rating</h6> 
+                            <span class="badge rounded-pill bg-light">
+                                <i class="bi bi-star-fill text-warning"></i>
+                                <i class="bi bi-star-fill text-warning"></i>
+                                <i class="bi bi-star-fill text-warning"></i>
+                                <i class="bi bi-star-fill text-warning"></i>
+                            </span>
+                            
+                            </div>
+
+                            <div class="d-flex justify-content-evenly mb-2">
+                                <a href="#" class="btn btn-sm text-dark custom-bg shadow-none fw-bold">Book Now</a>
+                                <a href="#" class="btn btn-sm btn-outline-dark shadow-none fw-bold">More Details</a>
+                            </div>
+
+                            
+                        </div>
+                    </div>
+
+                    
+
+                </div>
+
+                
                 <div class="col-lg-12 mt-5 text-center">
-                 <a href="#" class="btn btn-sm btn-outline-dark rounded-0 fw-bold shadow-none">>>>More Houseboats >>></a>
+                 <a href="#" class="btn btn-sm btn-outline-dark rounded-0 fw-bold shadow-none">More Houseboats >>></a>
                 </div>
             </div>
         </div>
+
+        
 
 
         <br><br><br>
