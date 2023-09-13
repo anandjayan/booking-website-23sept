@@ -29,10 +29,10 @@
         rel="stylesheet"
         />
         <!-- MDB -->
-        <link
+        <!-- <link
         href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.4.1/mdb.min.css"
         rel="stylesheet"
-        />
+        /> -->
         <style>
            
             .availability-form{
