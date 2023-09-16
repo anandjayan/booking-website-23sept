@@ -1,3 +1,4 @@
+<!-- mic check at 2 13 pm saturdaay 16 sept  -->
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -130,7 +131,7 @@
             </div>
         </nav>
 
-        <!-- mmodal -->
+        <!-- modal -->
         <div
             class="modal fade"
             id="LoginModal"
