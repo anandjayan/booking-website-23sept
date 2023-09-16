@@ -4,26 +4,13 @@
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>House Boat Booking Site</title>
-        <link
-            href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
-            rel="stylesheet"
-            integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
-            crossorigin="anonymous"
-        />
-        <link
-            rel="stylesheet"
-            href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css"
-        />
-        <link
-            href="https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Merienda:wght@400;700&family=Poppins:wght@400;600&family=Raleway:wght@200;600&display=swap"
-            rel="stylesheet"
-        />
+        <title>AquaZen Houseboats- Home</title>
+        
         <link
             rel="stylesheet"
             href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css"
         />
-        <link rel="stylesheet" href="css/common.css">
+        <?php require('include/links.php') ?>
         <!-- Font Awesome -->
         <link
         href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
@@ -57,261 +44,7 @@
         </style>
     </head>
     <body>
-        <nav
-            class="navbar navbar-expand-lg navbar-light bg-white px-lg-3 py-lg-2 shadow-sm sticky-top"
-        >
-            <div class="container-fluid">
-                <a
-                    class="navbar-brand me-5 fw-bold fs-2 h-font text-success"
-                    href="index.php"
-                    >AquaZen Houseboats
-                    
-                </a>
-                
-                <button
-                    class="navbar-toggler"
-                    type="button"
-                    data-bs-toggle="collapse"
-                    data-bs-target="#navbarSupportedContent"
-                    aria-controls="navbarSupportedContent"
-                    aria-expanded="false"
-                    aria-label="Toggle navigation"
-                >
-                    <span class="navbar-toggler-icon shadow-none"></span>
-                </button>
-                <div
-                    class="collapse navbar-collapse"
-                    id="navbarSupportedContent"
-                >
-                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                        <li class="nav-item">
-                            <a
-                                class="nav-link active me-2 fw-bolder"
-                                aria-current="page"
-                                href="#"
-                                >Home</a
-                            >
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link me-2 fw-bold" href="#">Houseboats</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link me-2 fw-bold" href="#"
-                                >Facilities</a
-                            >
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link me-2 fw-bold" href="#"
-                                >Contact Us</a
-                            >
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link me-2 fw-bold" href="#">About</a>
-                        </li>
-                    </ul>
-                    <div class="d-flex">
-                        <button
-                            type="button"
-                            class="btn btn-success fw-bold shadow-none me-lg-3 me-2"
-                            data-bs-toggle="modal"
-                            data-bs-target="#LoginModal"
-                        >
-                            Login
-                        </button>
-                        <button
-                            type="button"
-                            class="btn btn-success fw-bold shadow-none"
-                            data-bs-toggle="modal"
-                            data-bs-target="#RegisterModal"
-                        >
-                            Register
-                        </button>
-                    </div>
-                </div>
-            </div>
-        </nav>
-
-        <!-- modal -->
-        <div
-            class="modal fade"
-            id="LoginModal"
-            data-bs-backdrop="static"
-            data-bs-keyboard="false"
-            tabindex="-1"
-            aria-labelledby="staticBackdropLabel"
-            aria-hidden="true"
-        >
-            <div class="modal-dialog">
-                <div class="modal-content">
-                    <form>
-                        <div class="modal-header">
-                            <h1
-                                class="modal-title fs-5 d-flex align-items-center"
-                            >
-                                <i class="bi bi-person-circle fs-3 me-2"></i>
-                                User Login
-                            </h1>
-                            <button
-                                type="reset"
-                                class="btn-close shadow-none"
-                                data-bs-dismiss="modal"
-                                aria-label="Close"
-                            ></button>
-                        </div>
-                        <div class="modal-body">
-                            <div class="mb-4">
-                                <label class="form-label">Email address</label>
-                                <input
-                                    type="email"
-                                    class="form-control shadow-none"
-                                />
-                            </div>
-                            <div class="mb-3">
-                                <label class="form-label">Password</label>
-                                <input
-                                    type="password"
-                                    class="form-control shadow-none"
-                                />
-                            </div>
-                            <div
-                                class="d-flex align-items-center justify-content-between mb-2"
-                            >
-                                <button class="btn btn-dark shadow-none">
-                                    Login
-                                </button>
-                                <a
-                                    href="javascript: void(0)"
-                                    class="text-secondary text-decoration-none"
-                                    >Forgot Password</a
-                                >
-                            </div>
-                        </div>
-                    </form>
-                </div>
-            </div>
-        </div>
-
-        <div
-            class="modal fade"
-            id="RegisterModal"
-            data-bs-backdrop="static"
-            data-bs-keyboard="false"
-            tabindex="-1"
-            aria-labelledby="staticBackdropLabel"
-            aria-hidden="true"
-        >
-            <div class="modal-dialog modal-lg">
-                <div class="modal-content">
-                    <form>
-                        <div class="modal-header">
-                            <h1
-                                class="modal-title fs-5 d-flex align-items-center fw-bolder"
-                            >
-                                <i
-                                    class="bi bi-person-lines-fill fs-3 me-2"
-                                ></i>
-                                User Registration
-                            </h1>
-                            <button
-                                type="reset"
-                                class="btn-close shadow-none"
-                                data-bs-dismiss="modal"
-                                aria-label="Close"
-                            ></button>
-                        </div>
-                        <div class="modal-body">
-                            <span
-                                class="badge rounded-pill bg-success mb-3 text-wrap lh-base"
-                                >Note: Your details must match with your ID
-                                (AADHAR Card, Passport, Driving License, etc.)
-                                that will be required during check-in.
-                            </span>
-
-                            <div class="container-fluid">
-                                <div class="row">
-                                    <div class="col-sm-6 p-2 mb-3 fw-bolder">
-                                        <label class="form-label">Name</label>
-                                        <input
-                                            type="text"
-                                            class="form-control shadow-none"
-                                        />
-                                    </div>
-
-                                    <div class="col-sm-6 p-2 mb-3 fw-bolder">
-                                        <label class="form-label"
-                                            >Email address</label
-                                        >
-                                        <input
-                                            type="email"
-                                            class="form-control shadow-none"
-                                        />
-                                    </div>
-
-                                    <div class="col-sm-6 p-2 mb-3 fw-bolder">
-                                        <label class="form-label"
-                                            >Phone Number</label
-                                        >
-                                        <input
-                                            type="number"
-                                            class="form-control shadow-none"
-                                        />
-                                    </div>
-
-                                    <div class="col-sm-6 p-2 mb-3 fw-bolder">
-                                        <label class="form-label"
-                                            >Picture</label
-                                        >
-                                        <input
-                                            type="file"
-                                            class="form-control shadow-none"
-                                        />
-                                    </div>
-
-                                    <div class="col-sm-12 p-2 mb-3 fw-bolder">
-                                        <label class="form-label"
-                                            >Address</label
-                                        >
-                                        <textarea
-                                            class="form-control"
-                                            id="exampleFormControlTextarea1"
-                                            rows="3"
-                                        ></textarea>
-                                    </div>
-
-                                    <div class="col-sm-6 p-2 mb-3 fw-bolder">
-                                        <label class="form-label"
-                                            >Password</label
-                                        >
-                                        <input
-                                            type="password"
-                                            class="form-control shadow-none"
-                                        />
-                                    </div>
-
-                                    <div class="col-sm-6 p-2 mb-3 fw-bolder">
-                                        <label class="form-label"
-                                            >Confirm Password</label
-                                        >
-                                        <input
-                                            type="password"
-                                            class="form-control shadow-none"
-                                        />
-                                    </div>
-                                </div>
-                                <div class="text-center my-1 fw-bolder">
-                                    <button
-                                        type="submit"
-                                        class="btn btn-success shadow-none"
-                                    >
-                                        Register
-                                    </button>
-                                </div>
-                            </div>
-                        </div>
-                    </form>
-                </div>
-            </div>
-        </div>
+         <?php require('include/header.php') ?>
          
         <!-- carousal -->
         <div class="container-fluid p-0">
@@ -1053,7 +786,7 @@
          </div>
 
          <!--Testimonials -->
-         <h2 class="mt-5 pt-4 mb-4 text-center fw-bold h-font">Testimonials</h2>
+         <h2 class="text-center fw-bold h-font">Testimonials</h2>
             
 
             <div class="container mt-5">
@@ -1262,79 +995,11 @@
             </div>
             </div>
 
-            <div class="container-fluid mt-5" style="background-color: #ffdab9";>
-                <div class="row">
-                    <div class="col-lg-4">
-                      <h3 class="h-font fw-bold fs-4 mb-2 text-success">AquaZen Houseboaats: Sail Into Serenity</h3>
-                      <p class=" fw-bold mb-2">AquaZen Houseboats offer an enchanting escape in the heart of Kerala's backwaters. These floating marvels combine modern comfort with traditional charm, providing serene bedrooms, picturesque views, and a warm crew to ensure an unforgettable stay. Cruising on AquaZen is a tranquil journey through Kerala's waterways, offering a unique and memorable experience in the lap of nature.</p>   
-                    </div>
-                    <div class="col-lg-4">
-                    <h4 class="mb-3 fw-bold">Links</h4> 
-                       <a href="#" class="d-inline-block mb-2 text-decoration-none fs-5 fw-bold">Home</a><br>
-                       <a href="#" class="d-inline-block mb-2 text-decoration-none fs-5 fw-bold">Rooms</a><br>
-                       <a href="#" class="d-inline-block mb-2 text-decoration-none fs-5 fw-bold">Facilities</a><br>
-                       <a href="#" class="d-inline-block mb-2 text-decoration-none fs-5 fw-bold">Contact Us</a><br>
-                       <a href="#" class="d-inline-block mb-2 text-decoration-none fs-5 fw-bold">About</a><br>
-                    </div>
-                    <div class="col-lg-4">
-                       <h5 class="mb-3 fw-bold">Follow Us</h5>
-                       <a href="https://www.facebook.com/your-facebook-page-url" target="_blank">
-                    <i class="fab fa-facebook-f fa-3x social-icon" style="color: #3b5998;"></i>
-                    </a>
-
-                    <!-- Twitter -->
-                    <a href="https://twitter.com/your-twitter-page-url" target="_blank">
-                    <i class="fab fa-twitter fa-3x social-icon" style="color: #55acee;"></i>
-                    </a>
-
-                    <!-- Google -->
-                    <a href="https://plus.google.com/your-google-plus-page-url" target="_blank">
-                    <i class="fab fa-google fa-3x social-icon" style="color: #dd4b39;"></i>
-                    </a>
-
-                    <!-- Instagram -->
-                    <a href="https://www.instagram.com/your-instagram-page-url" target="_blank">
-                    <i class="fab fa-instagram fa-3x social-icon" style="color: #ac2bac;"></i>
-                    </a>
-
-                   
-
-                    <!-- Pinterest -->
-                    <a href="https://www.pinterest.com/your-pinterest-page-url" target="_blank">
-                    <i class="fab fa-pinterest fa-3x social-icon" style="color: #c61118;"></i>
-                    </a>
-
-                   
-
-                    
-
-                    <!-- Youtube -->
-                    <a href="https://www.youtube.com/your-youtube-channel-url" target="_blank">
-                    <i class="fab fa-youtube fa-3x social-icon" style="color: #ed302f;"></i>
-                    </a>
-
-
-                   
-
-                    <!-- Whatsapp -->
-                    <a href="https://api.whatsapp.com/send?phone=917356653492" target="_blank">
-                    <i class="fab fa-whatsapp fa-3x social-icon" style="color: #25d366;"></i>
-                    </a>
-                    </div>
-                </div>
-                <br>
-            <div class="container text-center text-dark fw-bold">
-                <p>&copy; 2023 ADJ. All Rights Reserved.</p>
-            </div>
-            </div>
+            <?php require('include/footer.php') ?>
             
                   
 
-        <script
-            src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
-            integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
-            crossorigin="anonymous"
-        ></script>
+       
         <script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
         <script>
             var swiper = new Swiper(".mySwiper", {
