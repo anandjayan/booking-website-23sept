@@ -3,7 +3,7 @@
     --teal_hover: #279e8c;
 }
 
-p, h6, h4, h1, h2, h3,  h5{
+p, h6, h4, h1, h2, h3, a, label,  h5{
     font-weight: 600 ;
 }
 

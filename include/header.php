@@ -41,7 +41,7 @@
                             >
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link me-2 fw-bold" href="#"
+                            <a class="nav-link me-2 fw-bold" href="contact.php"
                                 >Contact Us</a
                             >
                         </li>
@@ -212,7 +212,7 @@
                                             >Address</label
                                         >
                                         <textarea
-                                            class="form-control"
+                                            class="form-control shadow-none"
                                             id="exampleFormControlTextarea1"
                                             rows="3"
                                         ></textarea>

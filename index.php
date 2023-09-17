@@ -221,6 +221,18 @@
                                 </span>
                             </div>
 
+                            <div class="guests mb-4">
+                                <h6 class="mb-1 fw-bold">Guests</h6>
+                                <span class="badge rounded-pill bg-secondary mb-3 text-wrap lh-base ">
+                                2 Adults
+                                </span>
+
+                                <span class="badge rounded-pill bg-secondary mb-3 text-wrap lh-base ">
+                                2 Children
+                                </span>
+
+                            </div>
+
                             <div class="facilities mb-4">
                             <h6 class="mb-1 fw-bold">Rating</h6> 
                             <span class="badge rounded-pill bg-light">
@@ -289,6 +301,18 @@
                                 <span class="badge rounded-pill bg-info mb-3 text-wrap lh-base ">
                                 Glass-covered-Living Area
                                 </span>
+                            </div>
+
+                            <div class="guests mb-4">
+                                <h6 class="mb-1 fw-bold">Guests</h6>
+                                <span class="badge rounded-pill bg-secondary mb-3 text-wrap lh-base ">
+                                2 Adults
+                                </span>
+
+                                <span class="badge rounded-pill bg-secondary mb-3 text-wrap lh-base ">
+                                2 Children
+                                </span>
+
                             </div>
 
                             <div class="facilities mb-4">
@@ -361,7 +385,19 @@
                                 </span>
                             </div>
 
-                            <div class="facilities mb-4">
+                            <div class="guests mb-4">
+                                <h6 class="mb-1 fw-bold">Guests</h6>
+                                <span class="badge rounded-pill bg-secondary mb-3 text-wrap lh-base ">
+                                2 Adults
+                                </span>
+
+                                <span class="badge rounded-pill bg-secondary mb-3 text-wrap lh-base ">
+                                2 Children
+                                </span>
+
+                            </div>
+
+                            <div class="rating mb-4">
                             <h6 class="mb-1 fw-bold">Rating</h6> 
                             <span class="badge rounded-pill bg-light">
                                 <i class="bi bi-star-fill text-warning"></i>
@@ -429,6 +465,18 @@
                                 <span class="badge rounded-pill bg-info mb-3 text-wrap lh-base ">
                                 Glass-covered-Living Area
                                 </span>
+                            </div>
+
+                            <div class="guests mb-4">
+                                <h6 class="mb-1 fw-bold">Guests</h6>
+                                <span class="badge rounded-pill bg-secondary mb-3 text-wrap lh-base ">
+                                2 Adults
+                                </span>
+
+                                <span class="badge rounded-pill bg-secondary mb-3 text-wrap lh-base ">
+                                2 Children
+                                </span>
+
                             </div>
 
                             <div class="facilities mb-4">
@@ -501,6 +549,18 @@
                                 </span>
                             </div>
 
+                            <div class="guests mb-4">
+                                <h6 class="mb-1 fw-bold">Guests</h6>
+                                <span class="badge rounded-pill bg-secondary mb-3 text-wrap lh-base ">
+                                2 Adults
+                                </span>
+
+                                <span class="badge rounded-pill bg-secondary mb-3 text-wrap lh-base ">
+                                2 Children
+                                </span>
+
+                            </div>
+
                             <div class="facilities mb-4">
                             <h6 class="mb-1 fw-bold">Rating</h6> 
                             <span class="badge rounded-pill bg-light">
@@ -569,6 +629,18 @@
                                 <span class="badge rounded-pill bg-info mb-3 text-wrap lh-base ">
                                 Glass-covered-Living Area
                                 </span>
+                            </div>
+
+                            <div class="guests mb-4">
+                                <h6 class="mb-1 fw-bold">Guests</h6>
+                                <span class="badge rounded-pill bg-secondary mb-3 text-wrap lh-base ">
+                                2 Adults
+                                </span>
+
+                                <span class="badge rounded-pill bg-secondary mb-3 text-wrap lh-base ">
+                                2 Children
+                                </span>
+
                             </div>
 
                             <div class="facilities mb-4">

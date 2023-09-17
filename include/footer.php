@@ -1,7 +1,7 @@
 <div class="container-fluid mt-5" style="background-color: #ffdab9";>
                 <div class="row ">
                     <div class="col-lg-4 mt-3 ">
-                      <h3 class="h-font fw-bold fs-4 mb-2 text-success">AquaZen Houseboaats: Sail Into Serenity</h3>
+                      <h3 class="h-font fw-bold fs-4 mb-2 text-success">AquaZen Houseboats: Sail Into Serenity</h3>
                       <p class=" fw-bold mb-2">AquaZen Houseboats offer an enchanting escape in the heart of Kerala's backwaters. These floating marvels combine modern comfort with traditional charm, providing serene bedrooms, picturesque views, and a warm crew to ensure an unforgettable stay. Cruising on AquaZen is a tranquil journey through Kerala's waterways, offering a unique and memorable experience in the lap of nature.</p>   
                     </div>
                     <div class="col-lg-4 mt-3">
