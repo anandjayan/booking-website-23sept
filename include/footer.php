@@ -5,57 +5,57 @@
                       <p class=" fw-bold mb-2">AquaZen Houseboats offer an enchanting escape in the heart of Kerala's backwaters. These floating marvels combine modern comfort with traditional charm, providing serene bedrooms, picturesque views, and a warm crew to ensure an unforgettable stay. Cruising on AquaZen is a tranquil journey through Kerala's waterways, offering a unique and memorable experience in the lap of nature.</p>   
                     </div>
                     <div class="col-lg-4 mt-3">
-                    <h4 class="mb-3 fw-bold">Links</h4> 
-                       <a href="#" class="d-inline-block mb-2 text-decoration-none fs-5 fw-bold">Home</a><br>
-                       <a href="#" class="d-inline-block mb-2 text-decoration-none fs-5 fw-bold">Rooms</a><br>
-                       <a href="#" class="d-inline-block mb-2 text-decoration-none fs-5 fw-bold">Facilities</a><br>
-                       <a href="#" class="d-inline-block mb-2 text-decoration-none fs-5 fw-bold">Contact Us</a><br>
-                       <a href="#" class="d-inline-block mb-2 text-decoration-none fs-5 fw-bold">About</a><br>
+                        <h4 class="mb-3 fw-bold">Links</h4> 
+                        <a href="#" class="d-inline-block mb-2 text-decoration-none fs-5 fw-bold">Home</a><br>
+                        <a href="#" class="d-inline-block mb-2 text-decoration-none fs-5 fw-bold">Rooms</a><br>
+                        <a href="#" class="d-inline-block mb-2 text-decoration-none fs-5 fw-bold">Facilities</a><br>
+                        <a href="#" class="d-inline-block mb-2 text-decoration-none fs-5 fw-bold">Contact Us</a><br>
+                        <a href="#" class="d-inline-block mb-2 text-decoration-none fs-5 fw-bold">About</a><br>
                     </div>
                     <div class="col-lg-4 mt-3">
                        <h5 class="mb-3 fw-bold">Follow Us</h5>
-                       <a href="https://www.facebook.com/your-facebook-page-url" target="_blank">
-                    <i class="fab fa-facebook-f fa-3x social-icon " style="color: #3b5998;"></i>
-                    </a>
+                            <a href="https://www.facebook.com/your-facebook-page-url" target="_blank">
+                            <i class="fab fa-facebook-f fa-3x social-icon " style="color: #3b5998;"></i>
+                            </a>
 
-                    <!-- Twitter -->
-                    <a href="https://twitter.com/your-twitter-page-url" target="_blank">
-                    <i class="fab fa-twitter fa-3x social-icon p-2" style="color: #55acee;"></i>
-                    </a>
+                            <!-- Twitter -->
+                            <a href="https://twitter.com/your-twitter-page-url" target="_blank">
+                            <i class="fab fa-twitter fa-3x social-icon p-2" style="color: #55acee;"></i>
+                            </a>
 
-                    <!-- Google -->
-                    <a href="https://plus.google.com/your-google-plus-page-url" target="_blank">
-                    <i class="fab fa-google fa-3x social-icon p-2" style="color: #dd4b39;"></i>
-                    </a>
+                            <!-- Google -->
+                            <a href="https://plus.google.com/your-google-plus-page-url" target="_blank">
+                            <i class="fab fa-google fa-3x social-icon p-2" style="color: #dd4b39;"></i>
+                            </a>
 
-                    <!-- Instagram -->
-                    <a href="https://www.instagram.com/your-instagram-page-url" target="_blank">
-                    <i class="fab fa-instagram fa-3x social-icon p-2" style="color: #ac2bac;"></i>
-                    </a>
+                            <!-- Instagram -->
+                            <a href="https://www.instagram.com/your-instagram-page-url" target="_blank">
+                            <i class="fab fa-instagram fa-3x social-icon p-2" style="color: #ac2bac;"></i>
+                            </a>
 
-                   
+                        
 
-                    <!-- Pinterest -->
-                    <a href="https://www.pinterest.com/your-pinterest-page-url" target="_blank">
-                    <i class="fab fa-pinterest fa-3x social-icon p-2" style="color: #c61118;"></i>
-                    </a>
+                            <!-- Pinterest -->
+                            <a href="https://www.pinterest.com/your-pinterest-page-url" target="_blank">
+                            <i class="fab fa-pinterest fa-3x social-icon p-2" style="color: #c61118;"></i>
+                            </a>
 
-                   
+                        
 
-                    
+                            
 
-                    <!-- Youtube -->
-                    <a href="https://www.youtube.com/your-youtube-channel-url" target="_blank">
-                    <i class="fab fa-youtube fa-3x social-icon p-2" style="color: #ed302f;"></i>
-                    </a>
+                            <!-- Youtube -->
+                            <a href="https://www.youtube.com/your-youtube-channel-url" target="_blank">
+                            <i class="fab fa-youtube fa-3x social-icon p-2" style="color: #ed302f;"></i>
+                            </a>
 
 
-                   
+                        
 
-                    <!-- Whatsapp -->
-                    <a href="https://api.whatsapp.com/send?phone=917356653492" target="_blank">
-                    <i class="fab fa-whatsapp fa-3x social-icon " style="color: #25d366;"></i>
-                    </a>
+                            <!-- Whatsapp -->
+                            <a href="https://api.whatsapp.com/send?phone=917356653492" target="_blank">
+                            <i class="fab fa-whatsapp fa-3x social-icon " style="color: #25d366;"></i>
+                            </a>
                     </div>
                 </div>
                 <br>

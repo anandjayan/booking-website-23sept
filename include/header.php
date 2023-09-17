@@ -33,7 +33,7 @@
                             >
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link me-2 fw-bold" href="#">Houseboats</a>
+                            <a class="nav-link me-2 fw-bold" href="rooms.php">Houseboats/rooms</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link me-2 fw-bold" href="facilities.php"

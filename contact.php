@@ -1,4 +1,4 @@
-<!-- mic check at 2 13 pm saturdaay 16 sept  -->
+
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -30,8 +30,8 @@
 
              <div class="container">
                 <div class="row">
-                    <div class="col-lg-6 col-md-6 mb-5 px-4">
-                      <div class="bg-white rounded shadow p-4 ">
+                    <div class="col-lg-6 col-md-6 mb-5 px-4" >
+                      <div class=" rounded shadow p-4 " style="background-color: #F0FFF0" >
                       <iframe class="w-100 rounded mb-4"height="400" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d51939.9189423371!2d76.3516011642011!3d9.464526786002684!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b08834f9c86d49f%3A0x4d89105bdfc662ef!2sPallathuruthy%2C%20Pazhaveedu%2C%20Kainakary%2C%20Kerala!5e0!3m2!1sen!2sin!4v1694445315466!5m2!1sen!2sin"    loading="lazy" ></iframe>
                       <h5>Address</h5>
                           <a href="https://maps.app.goo.gl/9UJjtk995UHcFDPc8" target="_blank" class="d-inline-block text-decoration-none text-dark mb-2">
@@ -46,41 +46,39 @@
                              <h5 class="mt-4">Connect With Us</h4>
                     
                               <!-- socialmedia -->
-                              <!-- Facebook -->
-                              <a href="https://www.facebook.com/your-facebook-page-url" target="_blank">
-                              <i class="fab fa-facebook-f fa-3x social-icon mx-2" style="color: #3b5998;"></i>
-                              </a>
-
-                              <!-- Twitter -->
-                              <a href="https://twitter.com/your-twitter-page-url" target="_blank">
-                              <i class="fab fa-twitter fa-3x social-icon mx-2" style="color: #55acee;"></i>
-                              </a>
-
-                              <!-- Google -->
-                              <a href="https://plus.google.com/your-google-plus-page-url" target="_blank">
-                              <i class="fab fa-google fa-3x social-icon mx-2" style="color: #dd4b39;"></i>
-                              </a>
-
-                              <!-- Instagram -->
-                              <a href="https://www.instagram.com/your-instagram-page-url" target="_blank">
-                              <i class="fab fa-instagram fa-3x social-icon mx-2" style="color: #ac2bac;"></i>
-                              </a>
-
-                              <!-- Youtube -->
-                              <a href="https://www.youtube.com/your-youtube-channel-url" target="_blank">
-                              <i class="fab fa-youtube fa-3x social-icon mx-2" style="color: #ed302f;"></i>
-                              </a>
 
                               <!-- Whatsapp -->
                               <a href="https://api.whatsapp.com/send?phone=917356653492" target="_blank">
                               <i class="fab fa-whatsapp fa-3x social-icon mx-2" style="color: #25d366;"></i>
                               </a>
+                              <!-- Facebook -->
+                              <a href="https://www.facebook.com/your-facebook-page-url" target="_blank">
+                              <i class="fab fa-facebook-f fa-3x social-icon mx-2" style="color: #3b5998;"></i>
+                              </a>
+                              <!-- Instagram -->
+                              <a href="https://www.instagram.com/your-instagram-page-url" target="_blank">
+                              <i class="fab fa-instagram fa-3x social-icon mx-2" style="color: #ac2bac;"></i>
+                              </a>
+                              <!-- Twitter -->
+                              <a href="https://twitter.com/your-twitter-page-url" target="_blank">
+                              <i class="fab fa-twitter fa-3x social-icon mx-2" style="color: #55acee;"></i>
+                              </a>
+                              <!-- Google -->
+                              <a href="https://plus.google.com/your-google-plus-page-url" target="_blank">
+                              <i class="fab fa-google fa-3x social-icon mx-2" style="color: #dd4b39;"></i>
+                              </a>
+                              <!-- Youtube -->
+                              <a href="https://www.youtube.com/your-youtube-channel-url" target="_blank">
+                              <i class="fab fa-youtube fa-3x social-icon mx-2" style="color: #ed302f;"></i>
+                              </a>
+
+                              
 
                   </div>
                     </div>
 
-                    <div class="col-lg-6 col-md-6 mb-5 px-4">
-                      <div class="bg-white rounded shadow p-4 ">
+                    <div class="col-lg-6 col-md-6 mb-5 px-4" >
+                      <div class=" rounded shadow p-4 " style="background-color: #F0FFF0">
                         <form >
                           <h5> Send a message <i class="bi bi-chat-dots-fill"></i></h5>
                                <div class="mt-3">
