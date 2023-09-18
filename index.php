@@ -1192,55 +1192,55 @@
                     
                     <!-- socialmedia -->
                     <!-- Facebook -->
-                    <a href="https://www.facebook.com/your-facebook-page-url" target="_blank">
+                    <a href="https://www.facebook.com/your-facebook-page-url" target="blank">
                     <i class="fab fa-facebook-f fa-3x social-icon" style="color: #3b5998;"></i>
                     </a>
 
                     <!-- Twitter -->
-                    <a href="https://twitter.com/your-twitter-page-url" target="_blank">
+                    <a href="https://twitter.com/your-twitter-page-url" target="blank">
                     <i class="fab fa-twitter fa-3x social-icon" style="color: #55acee;"></i>
                     </a>
 
                     <!-- Google -->
-                    <a href="https://plus.google.com/your-google-plus-page-url" target="_blank">
+                    <a href="https://plus.google.com/your-google-plus-page-url" target="blank">
                     <i class="fab fa-google fa-3x social-icon" style="color: #dd4b39;"></i>
                     </a>
 
                     <!-- Instagram -->
-                    <a href="https://www.instagram.com/your-instagram-page-url" target="_blank">
+                    <a href="https://www.instagram.com/your-instagram-page-url" target="blank">
                     <i class="fab fa-instagram fa-3x social-icon" style="color: #ac2bac;"></i>
                     </a>
 
                     <!-- Linkedin -->
-                    <a href="https://www.linkedin.com/in/your-linkedin-profile-url" target="_blank">
+                    <a href="https://www.linkedin.com/in/your-linkedin-profile-url" target="blank">
                     <i class="fab fa-linkedin-in fa-3x social-icon" style="color: #0082ca;"></i>
                     </a>
 
                     <!-- Pinterest -->
-                    <a href="https://www.pinterest.com/your-pinterest-page-url" target="_blank">
+                    <a href="https://www.pinterest.com/your-pinterest-page-url" target="blank">
                     <i class="fab fa-pinterest fa-3x social-icon" style="color: #c61118;"></i>
                     </a>
 
                     <!-- Vkontakte -->
-                    <a href="https://vk.com/your-vkontakte-page-url" target="_blank">
+                    <a href="https://vk.com/your-vkontakte-page-url" target="blank">
                     <i class="fab fa-vk fa-3x social-icon" style="color: #4c75a3;"></i>
                     </a>
 
                     
 
                     <!-- Youtube -->
-                    <a href="https://www.youtube.com/your-youtube-channel-url" target="_blank">
+                    <a href="https://www.youtube.com/your-youtube-channel-url" target="blank">
                     <i class="fab fa-youtube fa-3x social-icon" style="color: #ed302f;"></i>
                     </a>
 
 
                     <!-- Reddit -->
-                    <a href="https://www.reddit.com/user/your-reddit-username" target="_blank">
+                    <a href="https://www.reddit.com/user/your-reddit-username" target="blank">
                     <i class="fab fa-reddit-alien fa-3x social-icon" style="color: #ff4500;"></i>
                     </a>
 
                     <!-- Whatsapp -->
-                    <a href="https://api.whatsapp.com/send?phone=917356653492" target="_blank">
+                    <a href="https://api.whatsapp.com/send?phone=917356653492" target="blank">
                     <i class="fab fa-whatsapp fa-3x social-icon" style="color: #25d366;"></i>
                     </a>
 
@@ -1261,7 +1261,7 @@
             </div>
             </div>
 
-            <div class="container-fluid mt-5" style="background-color: #ffdab9";>
+            <div class="container-fluid mt-5 px-4 py-4" style="background-color: #ffdab9";>
                 <div class="row">
                     <div class="col-lg-4">
                       <h3 class="h-font fw-bold fs-4 mb-2 text-success">AquaZen Houseboaats: Sail Into Serenity</h3>
@@ -1277,29 +1277,29 @@
                     </div>
                     <div class="col-lg-4">
                        <h5 class="mb-3 fw-bold">Follow Us</h5>
-                       <a href="https://www.facebook.com/your-facebook-page-url" target="_blank">
+                       <a href="https://www.facebook.com/your-facebook-page-url" target="blank">
                     <i class="fab fa-facebook-f fa-3x social-icon" style="color: #3b5998;"></i>
                     </a>
 
                     <!-- Twitter -->
-                    <a href="https://twitter.com/your-twitter-page-url" target="_blank">
+                    <a href="https://twitter.com/your-twitter-page-url" target="blank">
                     <i class="fab fa-twitter fa-3x social-icon" style="color: #55acee;"></i>
                     </a>
 
                     <!-- Google -->
-                    <a href="https://plus.google.com/your-google-plus-page-url" target="_blank">
+                    <a href="https://plus.google.com/your-google-plus-page-url" target="blank">
                     <i class="fab fa-google fa-3x social-icon" style="color: #dd4b39;"></i>
                     </a>
 
                     <!-- Instagram -->
-                    <a href="https://www.instagram.com/your-instagram-page-url" target="_blank">
+                    <a href="https://www.instagram.com/your-instagram-page-url" target="blank">
                     <i class="fab fa-instagram fa-3x social-icon" style="color: #ac2bac;"></i>
                     </a>
 
                    
 
                     <!-- Pinterest -->
-                    <a href="https://www.pinterest.com/your-pinterest-page-url" target="_blank">
+                    <a href="https://www.pinterest.com/your-pinterest-page-url" target="blank">
                     <i class="fab fa-pinterest fa-3x social-icon" style="color: #c61118;"></i>
                     </a>
 
@@ -1308,7 +1308,7 @@
                     
 
                     <!-- Youtube -->
-                    <a href="https://www.youtube.com/your-youtube-channel-url" target="_blank">
+                    <a href="https://www.youtube.com/your-youtube-channel-url" target="blank">
                     <i class="fab fa-youtube fa-3x social-icon" style="color: #ed302f;"></i>
                     </a>
 
@@ -1316,7 +1316,7 @@
                    
 
                     <!-- Whatsapp -->
-                    <a href="https://api.whatsapp.com/send?phone=917356653492" target="_blank">
+                    <a href="https://api.whatsapp.com/send?phone=917356653492" target="blank">
                     <i class="fab fa-whatsapp fa-3x social-icon" style="color: #25d366;"></i>
                     </a>
                     </div>
