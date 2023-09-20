@@ -39,7 +39,7 @@
             
         </style>
     </head>
-    <body>
+    <body class="bg-light">
          <?php require('include/header.php') ?>
          
         <!-- carousal -->
@@ -241,7 +241,7 @@
                             </div>
 
                             <div class="d-flex justify-content-evenly mb-2">
-                                <a href="#" class="btn btn-sm text-dark custom-bg shadow-none fw-bold">Book Now</a>
+                                <a href="#" class="btn btn-sm text-light custom-bg shadow-none fw-bold">Book Now</a>
                                 <a href="#" class="btn btn-sm btn-outline-dark shadow-none fw-bold">More Details</a>
                             </div>
 
@@ -323,7 +323,7 @@
                             </div>
 
                             <div class="d-flex justify-content-evenly mb-2">
-                                <a href="#" class="btn btn-sm text-dark custom-bg shadow-none fw-bold">Book Now</a>
+                                <a href="#" class="btn btn-sm text-light custom-bg shadow-none fw-bold">Book Now</a>
                                 <a href="#" class="btn btn-sm btn-outline-dark shadow-none fw-bold">More Details</a>
                             </div>
 
@@ -405,7 +405,7 @@
                             </div>
 
                             <div class="d-flex justify-content-evenly mb-2">
-                                <a href="#" class="btn btn-sm text-dark custom-bg shadow-none fw-bold">Book Now</a>
+                                <a href="#" class="btn btn-sm text-light custom-bg shadow-none fw-bold">Book Now</a>
                                 <a href="#" class="btn btn-sm btn-outline-dark shadow-none fw-bold">More Details</a>
                             </div>
 
@@ -487,7 +487,7 @@
                             </div>
 
                             <div class="d-flex justify-content-evenly mb-2">
-                                <a href="#" class="btn btn-sm text-dark custom-bg shadow-none fw-bold">Book Now</a>
+                                <a href="#" class="btn btn-sm text-light custom-bg shadow-none fw-bold">Book Now</a>
                                 <a href="#" class="btn btn-sm btn-outline-dark shadow-none fw-bold">More Details</a>
                             </div>
 
@@ -569,7 +569,7 @@
                             </div>
 
                             <div class="d-flex justify-content-evenly mb-2">
-                                <a href="#" class="btn btn-sm text-dark custom-bg shadow-none fw-bold">Book Now</a>
+                                <a href="#" class="btn btn-sm text-light custom-bg shadow-none fw-bold">Book Now</a>
                                 <a href="#" class="btn btn-sm btn-outline-dark shadow-none fw-bold">More Details</a>
                             </div>
 
@@ -651,7 +651,7 @@
                             </div>
 
                             <div class="d-flex justify-content-evenly mb-2">
-                                <a href="#" class="btn btn-sm text-dark custom-bg shadow-none fw-bold">Book Now</a>
+                                <a href="#" class="btn btn-sm text-light custom-bg shadow-none fw-bold">Book Now</a>
                                 <a href="#" class="btn btn-sm btn-outline-dark shadow-none fw-bold">More Details</a>
                             </div>
 

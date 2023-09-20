@@ -6,11 +6,11 @@
                     </div>
                     <div class="col-lg-4 mt-3">
                         <h4 class="mb-3 fw-bold">Links</h4> 
-                        <a href="#" class="d-inline-block mb-2 text-decoration-none fs-5 fw-bold">Home</a><br>
-                        <a href="#" class="d-inline-block mb-2 text-decoration-none fs-5 fw-bold">Rooms</a><br>
-                        <a href="#" class="d-inline-block mb-2 text-decoration-none fs-5 fw-bold">Facilities</a><br>
-                        <a href="#" class="d-inline-block mb-2 text-decoration-none fs-5 fw-bold">Contact Us</a><br>
-                        <a href="#" class="d-inline-block mb-2 text-decoration-none fs-5 fw-bold">About</a><br>
+                        <a href="index.php" class="d-inline-block mb-2 text-decoration-none fs-5 fw-bold">Home</a><br>
+                        <a href="rooms.php" class="d-inline-block mb-2 text-decoration-none fs-5 fw-bold">Rooms</a><br>
+                        <a href="facilities.php" class="d-inline-block mb-2 text-decoration-none fs-5 fw-bold">Facilities</a><br>
+                        <a href="contact.php" class="d-inline-block mb-2 text-decoration-none fs-5 fw-bold">Contact Us</a><br>
+                        <a href="about.php" class="d-inline-block mb-2 text-decoration-none fs-5 fw-bold">About</a><br>
                     </div>
                     <div class="col-lg-4 mt-3">
                        <h5 class="mb-3 fw-bold">Follow Us</h5>

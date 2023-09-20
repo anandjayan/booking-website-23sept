@@ -9,7 +9,7 @@
                 </a>
                 
                 <button
-                    class="navbar-toggler"
+                    class="navbar-toggler shadow-none"
                     type="button"
                     data-bs-toggle="collapse"
                     data-bs-target="#navbarSupportedContent"

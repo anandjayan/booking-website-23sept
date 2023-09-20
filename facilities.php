@@ -24,7 +24,7 @@
         </style>
       
     </head>
-      <body>
+      <body class="bg-light">
              <?php require('include/header.php') ?>
              
                     <div class="my-5 px-4">
@@ -106,4 +106,4 @@
         </body>
 </html>
 
-<!-- 3 video 15.41 -->
+

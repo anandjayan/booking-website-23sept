@@ -24,7 +24,7 @@
         
       
     </head>
-      <body>
+      <body class="bg-light">
              <?php require('include/header.php') ?>
              
                     <div class="my-5 px-4">
