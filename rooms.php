@@ -8,17 +8,51 @@
     <title>AquaZen Houseboats- rooms</title>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
     <?php require('include/links.php') ?>
+    <style>
+       video {
+                
+                position: relative;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height:70vh;
+                object-fit: cover;
+                
+                
+                
+            }
+            
+            
+
+    </style>
   </head>
   <body class="bg-light">
   <?php require('include/header.php') ?>
+   <!-- carousal -->
+         <div class="video-fluid p-0">
+            <div class="swiper mySwiper">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                    
+                            <video class="w-100 d-block"  autoplay loop muted>
+                                    <source src="videos/timelapse2.mp4 " type="video/mp4">
+                                    Your browser does not support the video tag.
+                            </video>
+                    </div>
+                </div>
+            </div>
+        </div>
 
-  <div class="my-5 px-4">
-                        <h2 class="fw-bold h-font text-center">Our Rooms</h2>
+                  <div class="my-4 py-4 px-2 ">
+                        <h2 class="fw-bold h-font fs-1 text-center">Our Rooms</h2>
                             <div class="h-line bg-dark">
                             </div>
                     </div>
 
+                    
+
              <div class="container">
+                   
                   <div class="row">
                         <div class="col-lg-3 col-md-12 mb-4 mb-lg-0 px-0 px-lg-0">
                          <nav class="navbar navbar-expand-lg bg-white navbar-light rounded shadow">

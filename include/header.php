@@ -33,7 +33,7 @@
                             >
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link me-2 fw-bold" href="rooms.php">Houseboats/rooms</a>
+                            <a class="nav-link me-2 fw-bold" href="rooms.php">Houseboats/rooms*</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link me-2 fw-bold" href="facilities.php"
@@ -47,6 +47,9 @@
                         </li>
                         <li class="nav-item">
                             <a class="nav-link me-2 fw-bold" href="about.php">About</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link me-2 fw-bold" href="gallery.php">Gallery*</a>
                         </li>
                     </ul>
                     <div class="d-flex">
