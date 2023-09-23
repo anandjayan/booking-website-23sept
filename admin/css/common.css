@@ -1,0 +1,43 @@
+:root{
+    --teal: #2ec1ac;
+    --teal_hover: #279e8c;
+}
+
+p, h6, h4, h1, h2, h3, a, label,  h5{
+    font-weight: 600 ;
+}
+
+* {
+    font-family: "Poppins", sans-serif;
+    font-family: "Raleway", sans-serif;
+}
+.h-font {
+    font-family: "Libre Baskerville", serif;
+    font-family: "Merienda", cursive;
+    
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+input[type="number"] {
+    -moz-appearance: textfield;
+}
+.custom-bg{
+    background-color: var(--teal);
+    border: var(--teal);
+}
+.custom-bg:hover{
+    background-color: var(--teal_hover);
+    border: var(--teal_hover);
+}
+
+.h-line{
+    width: 150px;
+    margin: 0 auto;
+    height: 1.7px;
+}
+
