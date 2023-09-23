@@ -122,7 +122,30 @@
                              <div class="card mb-4 border-0 shadow" >
                                <div class="row g-0 p-3 align-items-center">
                                  <div class="col-md-5 mb-lg-0 mb-md-0 mb-3">
-                                    <img src="images/placeholder.png" class="img-fluid rounded" >
+                                     <!-- multiple images in card  -->
+                                    <div id="cardCarousel" class="carousel slide" data-bs-ride="carousel">
+                                    <div class="carousel-inner">
+                                       <div class="carousel-item active" data-bs-interval="3000">
+                                          <img src="images/placeholder.png" class="d-block w-100" alt="Image 1">
+                                       </div>
+                                       <div class="carousel-item" data-bs-interval="3000">
+                                          <img src="images/placeholder.png" class="d-block w-100" alt="Image 2">
+                                       </div>
+                                       <div class="carousel-item" data-bs-interval="3000">
+                                          <img src="images/placeholder.png" class="d-block w-100" alt="Image 3">
+                                       </div>
+                                    </div>
+                                    <!-- Carousel Controls -->
+                                    <button class="carousel-control-prev" type="button" data-bs-target="#cardCarousel" data-bs-slide="prev">
+                                       <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                       <span class="visually-hidden">Previous</span>
+                                    </button>
+                                    <button class="carousel-control-next" type="button" data-bs-target="#cardCarousel" data-bs-slide="next">
+                                       <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                       <span class="visually-hidden">Next</span>
+                                    </button>
+                                    </div>
+                                    <!-- multiple images in card ends -->
                                  </div>
                                  <div class="col-md-5 px-lg-3 px-md-3 px-0">
                                     <h5 class="mb-3">Simple room name</h5>
@@ -191,7 +214,30 @@
                               <div class="card mb-4 border-0 shadow" >
                                <div class="row g-0 p-3 align-items-center">
                                  <div class="col-md-5 mb-lg-0 mb-md-0 mb-3">
-                                    <img src="images/placeholder.png" class="img-fluid rounded" >
+                                    <!-- multiple images in card  -->
+                                    <div id="cardCarousel" class="carousel slide" data-bs-ride="carousel">
+                                       <div class="carousel-inner">
+                                          <div class="carousel-item active" data-bs-interval="3000">
+                                             <img src="images/placeholder.png" class="d-block w-100" alt="Image 1">
+                                          </div>
+                                          <div class="carousel-item" data-bs-interval="3000">
+                                             <img src="images/placeholder.png" class="d-block w-100" alt="Image 2">
+                                          </div>
+                                          <div class="carousel-item" data-bs-interval="3000">
+                                             <img src="images/placeholder.png" class="d-block w-100" alt="Image 3">
+                                          </div>
+                                       </div>
+                                      <!-- Carousel Controls -->
+                                       <button class="carousel-control-prev" type="button" data-bs-target="#cardCarousel1" data-bs-slide="prev">
+                                          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                          <span class="visually-hidden">Previous</span>
+                                       </button>
+                                       <button class="carousel-control-next" type="button" data-bs-target="#cardCarousel1" data-bs-slide="next">
+                                          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                          <span class="visually-hidden">Next</span>
+                                       </button>
+                                    </div>
+                                    <!-- multiple images in card ends -->
                                  </div>
                                  <div class="col-md-5 px-lg-3 px-md-3 px-0">
                                     <h5 class="mb-3">Simple room name</h5>
@@ -259,7 +305,30 @@
                               <div class="card mb-4 border-0 shadow" >
                                <div class="row g-0 p-3 align-items-center">
                                  <div class="col-md-5 mb-lg-0 mb-md-0 mb-3">
-                                    <img src="images/placeholder.png" class="img-fluid rounded" >
+                                   <!-- multiple images in card  -->
+                                   <div id="cardCarousel3" class="carousel slide" data-bs-ride="carousel">
+                                    <div class="carousel-inner">
+                                       <div class="carousel-item active" data-bs-interval="3000">
+                                          <img src="images/placeholder.png" class="d-block w-100" alt="Image 1">
+                                       </div>
+                                       <div class="carousel-item" data-bs-interval="3000">
+                                          <img src="images/placeholder.png" class="d-block w-100" alt="Image 2">
+                                       </div>
+                                       <div class="carousel-item" data-bs-interval="3000">
+                                          <img src="images/placeholder.png" class="d-block w-100" alt="Image 3">
+                                       </div>
+                                    </div>
+                                    <!-- Carousel Controls -->
+                                    <button class="carousel-control-prev" type="button" data-bs-target="#cardCarousel3" data-bs-slide="prev">
+                                       <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                       <span class="visually-hidden">Previous</span>
+                                    </button>
+                                    <button class="carousel-control-next" type="button" data-bs-target="#cardCarousel3" data-bs-slide="next">
+                                       <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                       <span class="visually-hidden">Next</span>
+                                    </button>
+                                    </div>
+                                    <!-- multiple images in card ends -->
                                  </div>
                                  <div class="col-md-5 px-lg-3 px-md-3 px-0">
                                     <h5 class="mb-3">Simple room name</h5>
