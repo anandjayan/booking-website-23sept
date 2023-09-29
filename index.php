@@ -503,7 +503,7 @@
           </div>
         </div>
         <div class="col-lg-12 mt-5 text-center">
-          <a href="#" class="btn btn-sm btn-outline-dark rounded-0 fw-bold shadow-none">More Houseboats >>></a>
+          <a href="rooms.php" class="btn btn-sm btn-outline-dark rounded-0 fw-bold shadow-none">More Houseboats >>></a>
         </div>
       </div>
     </div>
@@ -863,12 +863,12 @@
           </div>
         </div>
         <div class="col-lg-12 mt-5 text-center">
-          <a href="#" class="btn btn-sm btn-outline-dark rounded-0 fw-bold shadow-none">More Facilities >>></a>
+          <a href="facilities.php" class="btn btn-sm btn-outline-dark rounded-0 fw-bold shadow-none">More Facilities >>></a>
         </div>
       </div>
     </div>
     <!--Testimonials -->
-    <h2 class="text-center fw-bold h-font">Testimonials</h2>
+    <h2 class="mt-5 pt-4 mb-4 text-center fw-bold h-font">Testimonials</h2>
     <div class="container mt-5">
       <div class="swiper swiper-testimonials">
         <div class="swiper-wrapper mb-5">

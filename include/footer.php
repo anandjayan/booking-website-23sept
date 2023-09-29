@@ -1,10 +1,10 @@
-<div class="container-fluid mt-5" style="background-color: #ffdab9";>
+<div class="container-fluid mt-5" style="background-color: #B0D9B1";>
                 <div class="row ">
-                    <div class="col-lg-4 mt-3 ">
+                    <div class="col-lg-6 mt-3 ">
                       <h3 class="h-font fw-bold fs-4 mb-2 text-success">AquaZen Houseboats: Sail Into Serenity</h3>
                       <p class=" fw-bold mb-2">AquaZen Houseboats offer an enchanting escape in the heart of Kerala's backwaters. These floating marvels combine modern comfort with traditional charm, providing serene bedrooms, picturesque views, and a warm crew to ensure an unforgettable stay. Cruising on AquaZen is a tranquil journey through Kerala's waterways, offering a unique and memorable experience in the lap of nature.</p>   
                     </div>
-                    <div class="col-lg-4 mt-3">
+                    <div class="col-lg-3 mt-3">
                         <h4 class="mb-3 fw-bold">Links</h4> 
                         <a href="index.php" class="d-inline-block mb-2 text-decoration-none fs-5 fw-bold">Home</a><br>
                         <a href="rooms.php" class="d-inline-block mb-2 text-decoration-none fs-5 fw-bold">Rooms</a><br>
@@ -13,7 +13,7 @@
                         <a href="about.php" class="d-inline-block mb-2 text-decoration-none fs-5 fw-bold">About</a><br>
                         <a href="gallery.php" class="d-inline-block mb-2 text-decoration-none fs-5 fw-bold">Gallery</a><br>
                     </div>
-                    <div class="col-lg-4 mt-3">
+                    <div class="col-lg-3 mt-3">
                        <h5 class="mb-3 fw-bold">Follow Us</h5>
                             <a href="" target="blank">
                             <i class="bi bi-facebook fa-3x social-icon " style="color: #3b5998;"></i>
