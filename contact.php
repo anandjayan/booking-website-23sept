@@ -5,8 +5,9 @@
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title>AquaZen Houseboats- Contact</title>
-        
-        
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+         <link href="https://getbootstrap.com/docs/5.3/assets/css/docs.css" rel="stylesheet">
+         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
         <?php require('include/links.php') ?>
         <!-- Font Awesome -->
         <link
@@ -18,7 +19,6 @@
     </head>
       <body class="bg-light">
              <?php require('include/header.php') ?>
-             
                     <div class="my-5 px-4">
                         <h2 class="fw-bold h-font text-center">Contact Us</h2>
                             <div class="h-line bg-dark">
@@ -49,27 +49,27 @@
 
                               <!-- Whatsapp -->
                               <a href="https://api.whatsapp.com/send?phone=917356653492" target="_blank">
-                              <i class="fab fa-whatsapp fa-3x social-icon mx-2" style="color: #25d366;"></i>
+                              <i class="ba bi-whatsapp fa-3x social-icon mx-2" style="color: #25d366;"></i>
                               </a>
                               <!-- Facebook -->
                               <a href="https://www.facebook.com/your-facebook-page-url" target="_blank">
-                              <i class="fab fa-facebook-f fa-3x social-icon mx-2" style="color: #3b5998;"></i>
+                              <i class="ba bi-facebook-f fa-3x social-icon mx-2" style="color: #3b5998;"></i>
                               </a>
                               <!-- Instagram -->
                               <a href="https://www.instagram.com/your-instagram-page-url" target="_blank">
-                              <i class="fab fa-instagram fa-3x social-icon mx-2" style="color: #ac2bac;"></i>
+                              <i class="ba bi-instagram fa-3x social-icon mx-2" style="color: #ac2bac;"></i>
                               </a>
                               <!-- Twitter -->
                               <a href="https://twitter.com/your-twitter-page-url" target="_blank">
-                              <i class="fab fa-twitter fa-3x social-icon mx-2" style="color: #55acee;"></i>
+                              <i class="ba bi-twitter fa-3x social-icon mx-2" style="color: #55acee;"></i>
                               </a>
                               <!-- Google -->
                               <a href="https://plus.google.com/your-google-plus-page-url" target="_blank">
-                              <i class="fab fa-google fa-3x social-icon mx-2" style="color: #dd4b39;"></i>
+                              <i class="ba bi-google fa-3x social-icon mx-2" style="color: #dd4b39;"></i>
                               </a>
                               <!-- Youtube -->
                               <a href="https://www.youtube.com/your-youtube-channel-url" target="_blank">
-                              <i class="fab fa-youtube fa-3x social-icon mx-2" style="color: #ed302f;"></i>
+                              <i class="ba bi-youtube fa-3x social-icon mx-2" style="color: #ed302f;"></i>
                               </a>
 
                               
@@ -110,11 +110,8 @@
                     
                 </div>
              </div>       
-       
-
-             <?php require('include/footer.php') ?>
-            
+          <?php require('include/footer.php') ?>
         </body>
 </html>
 
-<!-- start 5 video -->
+
